@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudiante de la universidad florencio del castillo,  mi pasión por la ingeniería informática y mi compromiso con el aprendizaje continuo me han llevado a destacarme en mi trayectoria académica en la Universidad Florencio del Castillo (UCA), mi enfoque proactivo y mi capacidad para trabajar tanto en equipo como de forma autónoma me han permitido enfrentar desafíos con determinación y obtener resultados sobresalientes.
+Estudiante de la universidad florencio del castillo,  mi pasión por la ingeniería informática y mi compromiso con el aprendizaje continuo me han llevado a destacarme en mi trayectoria académica, mi enfoque proactivo y mi capacidad para trabajar tanto en equipo como de forma autónoma me han permitido enfrentar desafíos con determinación y obtener resultados sobresalientes.
 
 
 ## 🌐 Socials:
