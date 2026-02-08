@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudiante de la universidad florencio del castillo,  mi pasión por la ingeniería informática y mi compromiso con el aprendizaje continuo me han llevado a destacarme en mi trayectoria académica, mi enfoque proactivo y mi capacidad para trabajar tanto en equipo como de forma autónoma me han permitido enfrentar desafíos con determinación y obtener resultados sobresalientes.
+Ingeniero en Informática egresado de la Universidad Florencio del Castillo, con experiencia en desarrollo backend, bases de datos y construcción de APIs REST, me destaco por mi pensamiento lógico, capacidad de resolución de problemas y aprendizaje continuo, busco integrarme a un equipo de desarrollo donde pueda aportar soluciones eficientes y seguir creciendo profesionalmente.
 
 
 ## 🌐 Socials:
